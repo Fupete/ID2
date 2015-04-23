@@ -18,11 +18,23 @@
 
 [Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
+-
+
 **Wind**
 
 (w. become sound)
 
-[And the wind was like the regret for what is no more - Joao Costa](http://joaocosta.co/and-the-wind-was-like-the-regret-for-what-is-no-more.html) >> blow
+[And the wind was like the regret for what is no more - Joao Costa](http://joaocosta.co/and-the-wind-was-like-the-regret-for-what-is-no-more.html)
+
+(sound become w.)
+
+[Yukikaze - 1](https://www.youtube.com/watch?v=jJfpL5QkixU) >> EPS
+
+[Yukikaze - 2](https://www.youtube.com/watch?v=b4HtUwAkVDg)
+
+[Yukikaze - 3](https://www.youtube.com/watch?v=aB9G4ogxxm4)
+
+-
 
 **Light**
 
@@ -34,6 +46,7 @@
 
 [Big Conscience - Carlo De Mattia](http://www.nendo.jp/en/works/shivering-bowls-2/) >> silicone
 
+-
 
 **Motion**
 
