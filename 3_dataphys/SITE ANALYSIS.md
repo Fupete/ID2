@@ -18,8 +18,7 @@ The first room hosts the reception at right and a little hided space used as a s
 
 Then, we are introduced to the second room which is the same dimensions of the first one not considering the ramp on the left. There are two wooden table on which lay design magazines of all kind. On the right wall, three info panels hang. An interesting thing is the low wall between this room and the ramp: it is transformed into a wooden covered bench and even thought it is fascinating, it's not used. Another info panel hangs on the wall near the corner before the ramp and a presentation panel on the final wall. Upon our head there's the reproduction of a famous chair hanging from the roof.
 
-![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_022825.jpg)
-![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_031841.jpg)
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/4a9722119d31d1b4c96218d79ee553a12fb0d8e8/3_dataphys/Uni-01.png)
 
 ###Dimensions
 
@@ -62,3 +61,5 @@ To enhance the room usability opportunities with the installation should be expl
 Further considerations on the image below:
 
 ![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_031931.jpg)
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_022825.jpg)
+![](https://raw.githubusercontent.com/fraguz/ID2-2015/c3c708a492e312948e35d035a6fa96c1734ee769/3_dataphys/IMG_20150429_031841.jpg)
