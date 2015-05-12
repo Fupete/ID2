@@ -69,3 +69,9 @@ Immagino l'installazione come un qualcosa che accolga, rassicuri e doni serenit√
 [Big heart NYC - B.I.G](https://vimeo.com/80903304)
 
 [Nimbus - Berndnaut Smilde](http://www.dezeen.com/2013/08/02/nimbus-green-room-by-berndnaut-smilde/)
+
+[Think - Jane Ro](http://www.janeujro.com/IBM-THINK)
+
+[Ad lib - Michele Spanghero](http://www.michelespanghero.com/works/ad-lib/)
+
+

@@ -46,31 +46,23 @@ Immagino sarà necessario posizionarne uno per ogni luogo indicato  ne lla tabel
 
 #####Riferimenti
 
-Progetti
+[Hover - Claudia Ciarpella](http://www.claudiaciarpella.com/portfolio/hover/)
 
-http://www.claudiaciarpella.com/portfolio/hover/
+[Yukikaze - INCAMS](https://www.youtube.com/watch?v=jJfpL5QkixU)
 
-http://hackaday.com/2010/06/25/yukikaze-music-visualizations/
+[Soft crash - Byoungho Kim](http://www.bitpaste.com/works_2011_soft_crash.html)
 
-https://www.youtube.com/watch?v=jJfpL5QkixU
+--
 
-Esempi livello base (interafacciare mic&scheda Arduino)
+[Audio input - Arduino](http://scuola.arduino.cc/lesson/zzoknZl/Audio_Input)
 
-http://scuola.arduino.cc/lesson/zzoknZl/Audio_Input
+[Leggere i valori audio in input](http://luca-petrosino.blogspot.it/2011/06/arduino-leggere-i-valori-dal-microfono.html)
 
-http://luca-petrosino.blogspot.it/2011/06/arduino-leggere-i-valori-dal-microfono.html
+--
 
-https://chiaraartini.wordpress.com/category/progetto/
+[Microfono](http://it.wikipedia.org/wiki/Microfono)
 
-http://www.danielealberti.it/2013/07/arduino-leggere-il-valore-da-un.html
-
-Sensore
-
-http://it.wikipedia.org/wiki/Microfono
-
-http://www.instructables.com/id/Sound-Pressure-sensor-for-Arduino-based-on-ZX-soun/
-
-http://www.giga-mobile.com/it/electronic-diy-single-chip-microcomputer/30459-keyes-microphone-sound-detection-sensor-module-for-arduino---red.html
+[Sensore Keyes](http://www.giga-mobile.com/it/electronic-diy-single-chip-microcomputer/30459-keyes-microphone-sound-detection-sensor-module-for-arduino---red.html)
 
 ## Calore
 
@@ -89,15 +81,13 @@ Nella realtà si potrebbero sfruttare i sensori di temperatura già posizionati 
 
 #####Riferimenti
 
-Progetti
+[Weather cube - Charmcut](https://graphicjunk.wordpress.com/)
 
-https://graphicjunk.wordpress.com/
+--
 
-Sensore
+[Sensore di temperatura + Arduino](http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/)
 
-http://www.logicaprogrammabile.it/arduino-sensore-di-temperatura-tmp36/
-
-http://playground.arduino.cc/Italiano/Sensori
+[Lettura valore di temperatura](http://playground.arduino.cc/Italiano/Sensori)
 
 ## Conclusioni
 
